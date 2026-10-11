@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.177.3](https://github.com/openfoodfacts/open-prices-frontend/compare/v1.177.2...v1.177.3) (2026-10-11)
+
+
+### Bug Fixes
+
+* **PWA:** fix apple-touch-icon path & align manifests (maskable icon, id, theme_color) ([#2449](https://github.com/openfoodfacts/open-prices-frontend/issues/2449)) ([8749839](https://github.com/openfoodfacts/open-prices-frontend/commit/8749839ca844fb750247769f04217772dc23d8dc))
+
 ## [1.177.2](https://github.com/openfoodfacts/open-prices-frontend/compare/v1.177.1...v1.177.2) (2026-10-11)
 
 
